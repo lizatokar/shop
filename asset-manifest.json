@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/shop/static/css/main.ebe3d321.css",
+    "main.js": "/shop/static/js/main.4339059a.js",
+    "static/media/bagFirst.jpg": "/shop/static/media/bagFirst.eec299752f26560a271f.jpg",
+    "static/media/bagFourth.jpg": "/shop/static/media/bagFourth.3bddc3f2f8a989f6bf4a.jpg",
+    "static/media/bagSixth.jpg": "/shop/static/media/bagSixth.707a2b1086c4ceb3fdcb.jpg",
+    "static/media/accessoriesTwo.jpg": "/shop/static/media/accessoriesTwo.02d7990c8d91c35b1fab.jpg",
+    "static/media/womenThird.jpg": "/shop/static/media/womenThird.0ee41bddc122ba504326.jpg",
+    "static/media/womenFirst.jpg": "/shop/static/media/womenFirst.e4add3c6619aea59c708.jpg",
+    "static/media/womenSecond.jpg": "/shop/static/media/womenSecond.09dca4919ccd5e97832f.jpg",
+    "static/media/menFourth.jpg": "/shop/static/media/menFourth.45116650248855a7439e.jpg",
+    "static/media/accessoriesOne.jpg": "/shop/static/media/accessoriesOne.3ea6c437ec4fe18d0bfb.jpg",
+    "static/media/bagThird.jpg": "/shop/static/media/bagThird.1c28a976d9f07f209880.jpg",
+    "static/media/menSecond.jpg": "/shop/static/media/menSecond.403ee2104081952dc5aa.jpg",
+    "static/media/menFirst.jpg": "/shop/static/media/menFirst.7ff383dd0da164d160ce.jpg",
+    "static/media/bagSeventh.jpg": "/shop/static/media/bagSeventh.1830d631eab0fef994a5.jpg",
+    "static/media/bagSecond.png": "/shop/static/media/bagSecond.598e00890b3c723b9845.png",
+    "static/media/logo.png": "/shop/static/media/logo.0f56d6866d433067460f.png",
+    "static/media/accessoriesFifth.jpg": "/shop/static/media/accessoriesFifth.a51a4f8d7a8d13fecff8.jpg",
+    "index.html": "/shop/index.html",
+    "main.ebe3d321.css.map": "/shop/static/css/main.ebe3d321.css.map",
+    "main.4339059a.js.map": "/shop/static/js/main.4339059a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebe3d321.css",
+    "static/js/main.4339059a.js"
+  ]
+}
