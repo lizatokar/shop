@@ -1,0 +1,14 @@
+.BestSellersItem {
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+
+.BestSellersItem img {
+    width: 80%;
+}

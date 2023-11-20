@@ -1,0 +1,31 @@
+.Header {
+    padding: 20px;
+    background-color: #b6cbee;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Header img {
+    width: 150px;
+}
+
+.Header nav {
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Header nav a {
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: 0.3s;
+    text-decoration: none;
+    color: black;
+    font-family: "Constantia";
+}
+
+.Header nav a:hover {
+    transform: scale(1.2);
+    color: white;
+}

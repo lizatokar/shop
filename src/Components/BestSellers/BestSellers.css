@@ -1,0 +1,16 @@
+.BestSellers {
+    /*height: 700px;*/
+    padding: 30px;
+    box-sizing: border-box;
+
+}
+
+.BestSellers div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.BestSellers h1 {
+    margin: 0;
+}
